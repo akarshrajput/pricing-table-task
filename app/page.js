@@ -19,7 +19,7 @@ const Home = () => {
         <Section title="API Pricing" />
         <InfoText>
           Our API pricing is based on the model used and the number of tokens
-          processed. Here's a breakdown of the costs:
+          processed. Here&apos;s a breakdown of the costs:
         </InfoText>
         <PricingTable />
         <Section title="Token Estimation" />
